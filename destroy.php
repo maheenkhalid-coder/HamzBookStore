@@ -5,3 +5,4 @@ session_destroy();
 header("location: index.php?Message=" . "successfully logged out!!");
 ?>
 
+<!-- This file run when the user is logout -->
