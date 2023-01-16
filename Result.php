@@ -190,6 +190,8 @@ $result=mysqli_query($con,$query) or die(mysqli_error($con));;
         }
     echo '</div>';
 ?>
+         
+<!--       This file is run when user search something    -->
 
 
 </body>
